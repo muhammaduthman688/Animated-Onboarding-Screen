@@ -42,4 +42,5 @@ Animated Onboarding Screen is a sleek and modern Android project designed to cre
    ```bash
    git clone https://github.com/muhammaduthman688/Animated-Onboarding-Screen.git
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/923472554151)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/923472554151) [![Gmail](https://img.shields.io/badge/Email-muhammadusman688%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:muhammadusman688@gmail.com)
+
